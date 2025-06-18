@@ -18,7 +18,15 @@ Whether you want bigger text for visibility or prefer a different system font fo
 
 ## 🖼 Preview
 
-> _(Optional: Add screenshots or a GIF here once you've pushed to GitHub)_
+<img src="images/preview.png" width="240" />
+
+###
+
+<img src="images/lyrics-21.png"/>
+
+###
+
+<img src="images/lyrics-34.png" />
 
 ---
 
