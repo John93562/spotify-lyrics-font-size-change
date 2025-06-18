@@ -1,15 +1,14 @@
 # 🎵 Spotify Lyrics Font Size & Font Changer (Chrome Extension)
 
-This Chrome extension allows you to **customize the font size and font family** of lyrics in Spotify's fullscreen mode.
+This Chrome extension allows you to **customize the font size** of lyrics in Spotify's fullscreen mode.
 
-Whether you want bigger text for visibility or prefer a different system font for aesthetic reasons, this tool gives you control — and **remembers your settings** automatically across sessions.
+Whether you want bigger text for visibility for aesthetic reasons, this tool gives you control — and **remembers your settings** automatically across sessions.
 
 ---
 
 ## 🔧 Features
 
 - ✅ Change **lyrics font size** with a slider
-- ✅ Choose from system fonts like **Arial**, **Georgia**, **Courier New**, and more
 - ✅ Automatically **saves your settings** to Chrome local storage
 - ✅ **Applies styles automatically** whenever lyrics are displayed
 - ✅ Works with **Spotify Web Player** in fullscreen lyrics mode
@@ -49,7 +48,7 @@ Whether you want bigger text for visibility or prefer a different system font fo
 ## ⚙️ How It Works
 
 - The extension injects a `content.js` script into Spotify pages.
-- It waits for lyrics to appear, then applies your selected **font size** and **font family** to all fullscreen lyrics.
+- It waits for lyrics to appear, then applies your selected **font size** to all fullscreen lyrics.
 - Your settings are stored using `chrome.storage.local` so they're **persisted between sessions**.
 - Even when you switch songs or re-open lyrics, your preferences are **automatically re-applied**.
 
